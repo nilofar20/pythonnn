@@ -1,0 +1,5 @@
+num=int(input())
+p=list(map(int,input().split()[:num]))
+p.sort()
+length=int((len(p))/2)
+print(p[length])
