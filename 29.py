@@ -1,3 +1,3 @@
 anto=int(input())
 p=anto
-print(l//60,anto%60)
+print(p//60,anto%60)
