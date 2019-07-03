@@ -1,0 +1,11 @@
+pn=int(input())
+temp=pn
+val=0
+while(pn>0):
+    n=pn%10
+    val=val*10+n
+    gv=gv//10
+if(temp==val):
+    print("yes")
+else:
+    print("no")
