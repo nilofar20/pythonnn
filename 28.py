@@ -1,4 +1,4 @@
-p=int(input())
-r=list(map(int,input().split()))
-for v in range(p):
-  print(l[v],v)
+nn=int(input())
+arr1=list(map(int,input().split()))
+for i in range(nn):
+  print(arr1[i],i)
