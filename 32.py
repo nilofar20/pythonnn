@@ -1,2 +1,2 @@
-nil=input()
-print(len(nil.split()))
+nihar=input()
+print(len(nihar.split()))
