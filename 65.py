@@ -1,2 +1,2 @@
-ap=input()
-print(ap)
+nn=input()
+print(nn)
