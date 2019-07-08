@@ -1,5 +1,6 @@
-n4=int(input())
-if (n4&(n4-1)==0):
-  print ("yes")
+n2=int(input())
+nn=n2 & n2-1
+if(nn==0):
+  print("yes")
 else:
-    print ("no")
+  print("no")
