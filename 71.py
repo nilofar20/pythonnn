@@ -1,5 +1,5 @@
-v10=input()
-if(vl0==vl0[::-1]):
+xy=input()
+if(xy==xy[::-1]):
  print("yes")
 else:
  print("no")
