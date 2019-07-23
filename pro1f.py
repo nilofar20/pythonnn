@@ -1,4 +1,4 @@
-nil=int(input())
+nilo=int(input())
 array=list(map(int,input().split()))
 an=0
 for h in range(len(array)-2):
